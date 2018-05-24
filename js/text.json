@@ -1,0 +1,11 @@
+var sidebarText = {
+  'contact': 'For more information on this  program, contact:',
+  'site': {
+    'heading': 'Serviced by:',
+    'historical': 'Formerly serviced by:'
+  },
+  'hub': {
+    'heading': 'Servicing hospitals:',
+    'historical': 'Formerly servicing hospitals:'
+  }
+};
