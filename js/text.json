@@ -7,5 +7,11 @@ var sidebarText = {
   'hub': {
     'heading': 'Servicing hospitals:',
     'historical': 'Formerly servicing hospitals:'
+  },
+  'state':{
+    'buttonInitial': 'Filter by state        &#x25BC;'
+  },
+  'program':{
+    'buttonInitial': 'Filter by program        &#x25BC;'
   }
 };
